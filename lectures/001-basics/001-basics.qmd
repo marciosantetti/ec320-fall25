@@ -1,0 +1,150 @@
+---
+title: "Games of Strategy: Basic principles"
+subtitle: "Game Theory // Fall 2025"
+institute: "marcio.santetti@emerson.edu"
+format: 
+  clean-revealjs:
+    self-contained: true
+html-math-method:
+  method: mathjax
+  url: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+author:
+  - name: Prof. Santetti
+---
+  
+
+
+# A bit of History {background-color="#62259D"}
+
+
+## A bit of History
+
+
+![](book.png){fig-align="center" width="420" height="550"}
+
+
+## A bit of History
+
+
+<br><br>
+
+
+A game as [any interaction between agents that is governed by a set of rules specifying the possible moves for each participant and a set of outcomes for each possible combination of moves]{.note}.
+
+
+
+## A bit of History
+
+
+<br><br>
+
+
+[Nobel prizes]{.note} in Economics:
+
+<br><br>
+
+[1972, 1994, 2005, 2007, 2009, 2012, 2014, 2016, 2017, 2020.]{.note}
+
+
+# More formally {background-color="#62259D"}
+
+
+## More formally
+
+
+<br>
+
+In short, games are **formal descriptions of strategic settings**.
+
+. . .
+
+
+<br>
+
+
+For our purposes, strategic settings &rarr; [interdependence]{.hi}.
+
+. . .
+
+- What [you]{.note} do affects [my]{.note} outcomes, and what [I]{.note} do affects [your]{.note} outcomes.
+
+
+<br>
+
+
+. . . 
+
+
+Most of the time, [outcomes]{.note} do not imply [winning]{.hi-green} or [losing]{.hi-red}.
+
+
+
+## More formally
+
+
+<br>
+
+We will learn a *mathematically precise and logically consistent structure*.
+
+
+. . .
+
+
+To start, [5]{.note} elements:
+
+. . .
+
+<br>
+
+1. A *list* of *players*;
+
+2. A complete description of what the players *can* do (i.e., their actions);
+
+3. A description of *what* the players *know* when they act;
+
+4. A specification of *how* the players' actions lead to *outcomes*;
+
+5. A specification of the players' preferences over outcomes (i.e., the *payoffs*).
+
+
+
+
+## More fomally
+
+<br>
+
+[Noncooperative]{.note} vs. [cooperative]{.note} games
+
+. . .
+
+
+
+<br><br>
+
+
+[Individual]{.note} actions *vs*. [Contractual]{.note} relations
+
+
+## More fomally
+
+<br>
+
+
+[Noncooperative]{.note} games:
+
+
+. . .
+
+
+<br><br>
+
+- [Extensive]{.hi-slate} form;
+
+- [Normal]{.hi} (strategic) form.
+
+
+# Next time: The extensive form {background-color="#62259D"}
+
+
+
+
