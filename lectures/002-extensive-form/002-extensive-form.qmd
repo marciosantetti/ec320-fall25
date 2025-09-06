@@ -1,0 +1,307 @@
+---
+title: "The extensive form"
+subtitle: "Game Theory // Fall 2025"
+institute: "marcio.santetti@emerson.edu"
+format: 
+  clean-revealjs:
+    self-contained: false
+    chalkboard: true
+html-math-method:
+  method: mathjax
+  url: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+author:
+  - name: Prof. Santetti
+---
+  
+
+
+# Bugs {background-color="#62259D"}
+
+
+## {background-image="bugs2.png"}
+
+## {background-image="antz2.png"}
+
+
+
+## Bugs
+
+:::: {.columns}
+
+::: {.column width="50%" }
+
+[Jeffrey Katzenberg]{.note} 
+
+
+![](katz.png){fig-align="left" width="350" height="350"}
+
+:::
+
+::: {.column width="50%"}
+
+
+
+
+<br><br><br>
+
+
+![](disney.png){fig-align="left" width="500" height="200"}
+
+:::
+
+
+::::
+
+
+
+## Bugs
+
+
+:::: {.columns}
+
+::: {.column width="50%" }
+
+[Jeffrey Katzenberg]{.note} 
+
+
+![](katz.png){fig-align="left" width="350" height="350"}
+
+:::
+
+::: {.column width="50%"}
+
+
+
+
+<br><br>
+
+
+![](dream.png){fig-align="left" width="750" height="300"}
+
+:::
+
+
+::::
+
+
+
+## Bugs
+
+:::: {.columns}
+
+::: {.column width="50%" }
+
+[Michael Eisner]{.note} 
+
+
+![](eisner.png){fig-align="left" width="350" height="400"}
+
+:::
+
+::: {.column width="50%"}
+
+
+
+
+<br><br><br>
+
+
+![](disney.png){fig-align="left" width="750" height="200"}
+
+:::
+
+
+::::
+
+
+
+## Bugs
+
+<br><br>
+
+
+1998: [A Bug's Life]{.note} and [Antz]{.note} come out.
+
+
+. . .
+
+
+<br><br>
+
+
+[Katzenberg]{.note} vs. [Eisner]{.note} in a [game of strategy]{.hi}.
+
+
+## The start: Katzenberg leaves or stays?
+
+<br>
+
+. . .
+
+
+![](tree1.png){fig-align="center" width="600" height="500"}
+
+
+## Eisner: Produce *Bug's* or not?
+
+
+<br>
+
+. . .
+
+![](tree2.png){fig-align="center" width="600" height="500"}
+
+## What about Katzenberg?
+
+<br>
+
+![](tree3.png){fig-align="center" width="650" height="550"}
+
+
+## What about Katzenberg?
+
+<br><br><br>
+
+
+
+How much [information]{.note} does Katzenberg have?
+
+
+<br>
+
+
+. . .
+
+Is it [realistic]{.note} to assume he knows about Eisner's decision?
+
+
+## What about Katzenberg? *Imperfect* information
+
+<br>
+
+![](tree4.png){fig-align="center" width="650" height="550"}
+
+
+
+## Early or not?
+
+
+
+![](tree5.png){fig-align="center" width="650" height="600"}
+
+
+## Is this a game?
+
+
+
+<br>
+
+Recall the [5]{.note} elements of a [game of strategy]{.note}:
+
+
+
+. . .
+
+<br>
+
+1. A *list* of *players*;
+2. A complete description of what the players *can* do (i.e., their actions);
+3. A description of *what* the players *know* when they act;
+4. A specification of *how* the players' actions lead to *outcomes*;
+5. A specification of the players' preferences over outcomes (i.e., the *payoffs*).
+
+
+## Is this a game?
+
+
+
+<br>
+
+Recall the [5]{.note} elements of a [game of strategy]{.note}:
+
+
+
+. . .
+
+<br>
+
+1. A *list* of *players*;
+2. A complete description of what the players *can* do (i.e., their actions);
+3. A description of *what* the players *know* when they act;
+4. ~~A specification of *how* the players' actions lead to *outcomes*~~;
+5. ~~A specification of the players' preferences over outcomes (i.e., the *payoffs*)~~.
+
+
+# Information sets {background-color="#62259D"}
+
+
+## Information sets
+
+<br>
+
+An [information set]{.hi-purple} specifies the players’ [information]{.note} at decision nodes in the game.
+
+. . .
+
+<br>
+
+The information sets in a game precisely describe the [different decisions]{.hi-pink} that players have to make.
+
+. . .
+
+<br>
+
+- Every [decision node]{.hi-slate} is contained in an information set.
+
+- Some information sets consist of [only one]{.note} node.
+
+
+## 1&mdash;4
+
+![](tree5.png){fig-align="center" width="650" height="600"}
+
+
+## 5: Payoffs
+
+
+![](tree6.png){fig-align="center" width="650" height="600"}
+
+
+# How did it end?
+
+
+
+# Further examples {background-color="#62259D"}
+
+
+## 1: Two stores, two prices
+
+<br>
+
+![](tree7.png){fig-align="center" width="800" height="330"}
+
+
+<br>
+
+
+What is the [difference]{.note}?
+
+
+## 2: Draw your tree
+
+<br>
+
+
+Firm A decides whether to enter firm B’s industry. Firm B observes this decision. If firm A enters, then the two firms simultaneously decide whether to advertise. 
+
+Otherwise, firm B alone decides whether to advertise. With two firms in the market, the firms earn profits of \$3 million each if they both advertise and \$5 million if they both do not advertise. 
+
+If only one firm advertises, then it earns \$6 million and the other earns \$1 million. When firm B is solely in the industry, it earns \$4 million if it advertises and $3.5 million if it does not advertise. Firm A earns nothing if it does not enter.
+
+
+
+# Next time: Strategies & the normal form {background-color="#62259D"}
+
+
+
+
